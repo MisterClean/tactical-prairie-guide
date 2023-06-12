@@ -46,7 +46,4 @@ I'm by no means an expert, please submit an issue or pull request if you want to
 
 6. **Butterfly Weed (Asclepias tuberosa):** This perennial is a type of milkweed and is great for attracting monarch butterflies. It's hardy and can handle cold winters.
 
-Remember, it's best to plant native species in the fall or spring, and some of these perennials might take a year or two to establish and start blooming. Check your local native plant nursery for availability and additional planting advice.
-
-
 Native prairie plants can take some time to establish, so don't be discouraged if you don't see growth right away. With time, you'll see the fruits of your labor. 🌼
