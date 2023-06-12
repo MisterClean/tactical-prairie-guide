@@ -1,16 +1,13 @@
 # Tactical Prairie Guide
 A [tactical urbanism](http://tacticalurbanismguide.com/about/) guide for planting native prairie species in midwest cities like Chicago. This guide provides a quick and efficient method for planting native prairie species around your neighborhood. This process can be carried out with minimum tools and is perfect for a biking journey. 🚴‍♂️
 
-I'm by no means an expert, please submit an issue or pull request if you want to make a correction or contribution!
-
-## ⏱ Timing
-- It's best to plant native species in the fall or spring. Some species can blossom quickly, others might take a year or two to establish and start blooming. 
+I'm by no means an expert, please submit an issue or pull request if you want to make a correction or contribution! 
 
 ## 🧰 Preparations
 
-1. **Seeds or Seedlings:** Decide if you want to plant seeds or seedlings. Seeds are easier to transport but may take longer to establish. 
-
-3. **Pack Your Tools:** Pack a small trowel, gloves, a water bottle, and your seeds or seedlings into a backpack. If using seedlings, be sure to pack them carefully to prevent damage.
+- **Seeds or Seedlings:** Decide if you want to plant seeds or seedlings. Seeds are easier to transport but may take longer to establish. 
+- **Buy Seeds or Seedlings:** Use the list below, which includes species that are native to the Chicago area.
+- **Pack Your Tools:** Pack a small trowel, gloves, a water bottle, and your seeds or seedlings into a backpack or saddle bag. If using seedlings, be sure to pack them carefully to prevent damage.
 
 ## 🌱 Planting Procedure
 
