@@ -5,7 +5,7 @@ I'm by no means an expert, please submit an issue or pull request if you want to
 
 ## 🧰 Preparations
 
-- **Seeds or Seedlings:** Decide if you want to plant seeds or seedlings. Seeds are easier to transport but may take longer to establish. 
+- **Decide Seeds or Seedlings:** Seeds are easier to transport but may take longer to establish. 
 - **Buy Seeds or Seedlings:** Use the list below, which includes species that are native to the Chicago area.
 - **Pack Your Tools:** Pack a small trowel, gloves, a water bottle, and your seeds or seedlings into a backpack or saddle bag. If using seedlings, be sure to pack them carefully to prevent damage.
 
